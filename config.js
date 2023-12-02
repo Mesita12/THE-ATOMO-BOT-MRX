@@ -7,19 +7,19 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "51976631425"
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
-  ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215533827255', '💫 Mystic - Collaborator 7 💫', false],
-  ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
-  ['393518398856','💫 Mystic - Tester Fabri115💫', true],
+  ['51900330930', '👑 TheAtomo-Bot-MRX - Creador 👑', true],
+  ['51976631425', '💫 CORAMY - BOT - MRX - Collaborator 1 💫', true],
+  ['51977413436', '💫 STONE - BOT - MRX - Collaborator 2 💫', true],
+  ['51996089079', '💫 TheAtomo-Bot-MRX - Collaborator 3 💫', true],
+  ['5218442286089', '💫 TheAtomo-Bot-MRX - Collaborator 4 💫', true],
+  ['50246028932', '💫 TheAtomo-Bot-MRX - Collaborator 5 💫', true],
+  ['5212412377467', '💫 TheAtomo-Bot-MRX - Collaborator 6 💫', true],
+  ['5215533827255', '💫 TheAtomo-Bot-MRX - Collaborator 7 💫', false],
+  ['51912191108', '💫 MIRA - BOT - MRX- Collaborator 8 💫', true],
+  ['393518398856','💫 TheAtomo-Bot-MRX - Tester Fabri115💫', true],
   ['593968585283'],
   ['5219993404349'],
   ['5219991402134'],
@@ -34,15 +34,15 @@ global.owner = [
   ['595992611272']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['51900330930'];
+global.prems = ['51976631425'];
 
 global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
+global.author = 'TheAtomo-Bot-MRX';
+global.wm = 'TheAtomo-Bot-MRX';
+global.titulowm = 'TheAtomo-Bot-MRX';
+global.titulowm2 = `TheAtomo-Bot-MRX`
+global.igfg = 'TheAtomo-Bot-MRX';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -63,11 +63,11 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
+global.wm2 = `${dia} ${fecha}\nTheAtomo-Bot-MRX`;
+global.gt = 'TheAtomo-Bot-MRX';
+global.mysticbot = 'TheAtomo-Bot-MRX';
+global.md = 'https://github.com/Mesita12/TheAtomo-Bot-MRX';
+global.mysticbot = 'https://github.com/Mesita12/TheAtomo-Bot-MRX';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
@@ -86,8 +86,8 @@ global.htki = '*⭑•̩̩͙⊱•••• ☪*';
 global.htka = '*☪ ••••̩̩͙⊰•⭑*';
 global.comienzo = '• • ◕◕════';
 global.fin = '════◕◕ • •';
-global.botdate = `*[ 📅 ] Fecha:*  ${moment.tz('America/Mexico_City').format('DD/MM/YY')}`;
-global.bottime = `*[ ⏳ ] Hora:* ${moment.tz('America/Mexico_City').format('HH:mm:ss')}`;
+global.botdate = `*[ 📅 ] Fecha:*  ${moment.tz('America/Peru_City').format('DD/MM/YY')}`;
+global.bottime = `*[ ⏳ ] Hora:* ${moment.tz('America/Peru_City').format('HH:mm:ss')}`;
 global.fgif = {key: {participant: '0@s.whatsapp.net'}, message: {'videoMessage': {'title': wm, 'h': `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu.png')}}};
 global.multiplier = 99;
 global.flaaa = [
