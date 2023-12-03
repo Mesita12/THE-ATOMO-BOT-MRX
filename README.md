@@ -1,9 +1,9 @@
-# `🧿 𝚃HE ATOMO - 𝙱OT - MRX 🔮` 
+# `🧿 THE ATOMO - BOT - MRX 🔮` 
 
 ------------------
 > **AVISO**: Yo "OLIVER", me he retirado de todo lo relacionado con el Bot o temas similares, por lo que en algun momento quedará obsoleto y/o algunos comandos dejarán de funcionar. Agradezco su preferencia durante el recorrido por este mundo de los Bots.
 
-> 𝚃HE ATOMO - 𝙱OT - MRX pasa a quedar en manos de colaboradores, y como principal representante MESITA12
+> THE ATOMO - BOT - MRX pasa a quedar en manos de colaboradores, y como principal representante MESITA12
 ------------------
 
 ### `—◉ 🔗 CUENTAS OFICIALES 🔗`
@@ -117,8 +117,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
 - PUEDES USAR #actualizacion PARA VER SI ALGUN COMANDO FUE ACTUALIZADO
 - EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- 𝚃HE ATOMO - 𝙱OT - MRX NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
-- 𝚃HE ATOMO - 𝙱OT - MRX LAS DONACIONES SON UTILIZADOS PARA COMPRAR NUEVAS APIS Y MEJORAR EL FUNCIONAMIENTO DEL BOT 
+- THE ATOMO - BOT - MRX NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
+- THE ATOMO - BOT - MRX LAS DONACIONES SON UTILIZADOS PARA COMPRAR NUEVAS APIS Y MEJORAR EL FUNCIONAMIENTO DEL BOT 
  
  ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 <a href="http://wa.me/51900330930" target="blank"><img src="https://img.shields.io/badge/OLIVER_ATOMO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -141,4 +141,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/Mesita12"><img src="https://github.com/Mesita12.png" width="250" height="250" alt="Mesita12"/></a>
   
-`𝚃HE ATOMO - 𝙱OT - MRX - BY OLIVER ATOM`
+`THE ATOMO - BOT - MRX - BY OLIVER ATOM`
