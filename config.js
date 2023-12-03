@@ -10,16 +10,16 @@ import moment from 'moment-timezone';
 global.botnumber = "51976631425"
 
 global.owner = [
-  ['51900330930', '👑 TheAtomo-Bot-MRX - Creador 👑', true],
+  ['51900330930', '👑 THE-ATOMO-BOT-MRX - Creador 👑', true],
   ['51976631425', '💫 CORAMY - BOT - MRX - Collaborator 1 💫', true],
   ['51977413436', '💫 STONE - BOT - MRX - Collaborator 2 💫', true],
-  ['51996089079', '💫 TheAtomo-Bot-MRX - Collaborator 3 💫', true],
-  ['5218442286089', '💫 TheAtomo-Bot-MRX - Collaborator 4 💫', true],
-  ['50246028932', '💫 TheAtomo-Bot-MRX - Collaborator 5 💫', true],
-  ['5212412377467', '💫 TheAtomo-Bot-MRX - Collaborator 6 💫', true],
-  ['5215533827255', '💫 TheAtomo-Bot-MRX - Collaborator 7 💫', false],
+  ['51996089079', '💫 THE-ATOMO-BOT-MRX - Collaborator 3 💫', true],
+  ['5218442286089', '💫 THE-ATOMO-BOT-MRX - Collaborator 4 💫', true],
+  ['50246028932', '💫 THE-ATOMO-BOT-MRX - Collaborator 5 💫', true],
+  ['5212412377467', '💫 THE-ATOMO-BOT-MRX - Collaborator 6 💫', true],
+  ['5215533827255', '💫 THE-ATOMO-BOT-MRX - Collaborator 7 💫', false],
   ['51912191108', '💫 MIRA - BOT - MRX- Collaborator 8 💫', true],
-  ['393518398856','💫 TheAtomo-Bot-MRX - Tester Fabri115💫', true],
+  ['393518398856','💫 THE-ATOMO-BOT-MRX - Tester Fabri115💫', true],
   ['593968585283'],
   ['5219993404349'],
   ['5219991402134'],
@@ -38,11 +38,11 @@ global.suittag = ['51900330930'];
 global.prems = ['51976631425'];
 
 global.packname = 'Sticker';
-global.author = 'TheAtomo-Bot-MRX';
-global.wm = 'TheAtomo-Bot-MRX';
-global.titulowm = 'TheAtomo-Bot-MRX';
-global.titulowm2 = `TheAtomo-Bot-MRX`
-global.igfg = 'TheAtomo-Bot-MRX';
+global.author = 'THE-ATOMO-BOT-MRX';
+global.wm = 'THE-ATOMO-BOT-MRX';
+global.titulowm = 'THE-ATOMO-BOT-MRX';
+global.titulowm2 = `THE-ATOMO-BOT-MRX`
+global.igfg = 'THE-ATOMO-BOT-MRX';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -63,11 +63,11 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nTheAtomo-Bot-MRX`;
-global.gt = 'TheAtomo-Bot-MRX';
-global.mysticbot = 'TheAtomo-Bot-MRX';
-global.md = 'https://github.com/Mesita12/TheAtomo-Bot-MRX';
-global.mysticbot = 'https://github.com/Mesita12/TheAtomo-Bot-MRX';
+global.wm2 = `${dia} ${fecha}\nTHE-ATOMO-BOT-MRX`;
+global.gt = 'THE-ATOMO-BOT-MRX';
+global.mysticbot = 'THE-ATOMO-BOT-MRX';
+global.md = 'https://github.com/Mesita12/THE-ATOMO-BOT-MRX';
+global.mysticbot = 'https://github.com/Mesita12/THE-ATOMO-BOT-MRX';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
