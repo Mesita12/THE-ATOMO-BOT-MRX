@@ -1,14 +1,14 @@
 # `🧿 THE ATOMO - BOT - MRX 🔮` 
 
 ------------------
-> **AVISO**: Yo "OLIVER", me he retirado de todo lo relacionado con el Bot o temas similares, por lo que en algun momento quedará obsoleto y/o algunos comandos dejarán de funcionar. Agradezco su preferencia durante el recorrido por este mundo de los Bots.
+> **AVISO**: Yo "ALICIA", me he retirado de todo lo relacionado con el Bot o temas similares, por lo que en algun momento quedará obsoleto y/o algunos comandos dejarán de funcionar. Agradezco su preferencia durante el recorrido por este mundo de los Bots.
 
 > THE ATOMO - BOT - MRX pasa a quedar en manos de colaboradores, y como principal representante MESITA12
 ------------------
 
 ### `—◉ 🔗 CUENTAS OFICIALES 🔗`
 
-* https://atom.bio/mesita_ito
+* https://atom.bio/mesita_ito12
 
 ### `—◉ 💟 GRUPO DE SOPORTE 💟`
 
